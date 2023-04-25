@@ -2,7 +2,6 @@
 the K Music Player Windows Version
 
 support Windows System: 
-
 Windows XP, Windows 2003, Windows Vista, Windows 7, Windows 8.1, Windows 10, Windows 11
 
 support 32bit and 64bit Windows System.
