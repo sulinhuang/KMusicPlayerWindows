@@ -5,6 +5,6 @@ support Windows System: <br>Windows XP, Windows 2003, Windows Vista, Windows 7, 
 
 support 32bit and 64bit Windows System.
 
-support Music file types: mp3,flac,wav,dff,dsf,ape
+support Music file types: mp3,flac,wav,dff(SACD),dsf(SACD),ape
 
 support LRC file type: .lrc file.
